@@ -2,6 +2,11 @@
 
 int main(void)
 {
-	printf("code success");
+	
+
+
+
+
+
 	return 0;
 }	
